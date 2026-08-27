@@ -4,8 +4,8 @@ body, html {
     height: 100%;
     margin: 0;
     font-family: roboto;
-    color: whitesmoke;
-    background-color: black;
+    color: black;
+    background-color: blanchedalmond;
   }  
 
 .hero-image {
@@ -30,13 +30,13 @@ body, html {
 
 /* The next two selectors control hero-text font properties. 2em is 2x inherited font-size value. 5 em is 5x stated value. */
 .hero-text h1 {
-    font-family: inherit;
+    font-family: "Bitcount Grid Double Ink", sans-serif;
     font-size: 5em;
     color: white;
   }
 
 .hero-text h2 {
-    font-family: inherit;
+    font-family: "Bitcount Grid Double Ink", sans-serif;
     font-size: 2em;
     color: white;
   }
