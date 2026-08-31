@@ -30,17 +30,21 @@ body, html {
 
 /* The next two selectors control hero-text font properties. 2em is 2x inherited font-size value. 5 em is 5x stated value. */
 .hero-text h1 {
-    font-family: inherit;
+    font-family: "Georgia",serif;
     font-size: 5em;
     color: white;
   }
 
 .hero-text h2 {
-    font-family: inherit;
+    font-family: "Georgia", serif;
     font-size: 2em;
     color: white;
   }
   
+h2 {
+    font-family: "Georgia", serif;
+    color: black;
+  }
 
  /* The text-block class selector controls the text-box on screens >800px. You will also need to adjust values in the next text-box selector. */
 .text-block {
