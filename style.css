@@ -189,7 +189,7 @@ CSS Flexbox creates responsive layouts for images, text, and other content. Reus
    margin-top: 8px;
    vertical-align: middle;
    width: 100%;
-   height: 220px;
+   height: 330px;
    object-fit: cover;
    border-radius: 12px;
  }
